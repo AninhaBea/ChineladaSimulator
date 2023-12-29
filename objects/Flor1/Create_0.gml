@@ -1,0 +1,1 @@
+global.flores = 0

@@ -1,0 +1,1 @@
+draw_text(x+8, y+10, string(floor(global.tempo)));

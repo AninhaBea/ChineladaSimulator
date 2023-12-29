@@ -1,0 +1,1 @@
+texto = "Desenvolvido por Ana Santos\n\nFerramentas Utilizadas:\nGame Maker\nAudacity\nPiskel\n\nAgradecimentos Especiais:\nPara comunidade da Game Jam Ponto e Virgula, por proporcionar um ambiente incrivel de criatividade e desafios."
